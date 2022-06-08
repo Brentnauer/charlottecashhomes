@@ -680,10 +680,15 @@ a {
     display: none;
   }
 
+  .hero-content {
+    text-align: center;
+  }
+
   .steps-grid {
     margin-top: 20px;
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
+    text-align: center;
   }
 
   .large-text {
